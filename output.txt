@@ -1,0 +1,5 @@
+Optimal path -: A -> C -> E -> B -> D -> A
+Optimum Cost -: 25
+Nodes expanded -: 9
+Total nodes -: 22
+Execution time -: 0.0106821 seconds
